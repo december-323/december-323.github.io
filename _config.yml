@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "김준서"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo.png"
   bio              : "행복한 컴퓨터교육 설계자"
   location         : "Somewhere"
   email            : "junseo1348@gmail.com"
